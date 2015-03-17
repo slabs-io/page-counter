@@ -1,7 +1,7 @@
-page-scraper
+page-counter
 =============
 
-##A page scraping module for use with slabs.io.
+##A page scraping module that counts instances of a word - for use with slabs.io.
 
 Before use run :
 ```
