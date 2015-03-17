@@ -1,5 +1,5 @@
 {
-  "name" : "Page Scraper",
+  "name" : "Page Counter",
   "description" : "A tool for scraping web pages and getting the number of mentions of a specific term.",
   "type" : "source",
   "connectionsIn" : 1,
